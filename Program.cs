@@ -10,6 +10,8 @@ namespace git
     {
         static void Main(string[] args)
         {
+            int x = 5;
+            int y = 10;
             Console.WriteLine("Hello world!");
             Console.ReadKey();
         }
